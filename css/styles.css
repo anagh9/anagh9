@@ -269,7 +269,7 @@ a:hover {
 
 .form-control-input,
 .form-control-select {
-  display: block; /* needed for proper display of the label in Firefox, IE, Edge */
+  display: block;
   width: 100%;
   padding-top: 1.125rem;
   padding-bottom: 0.125rem;
@@ -280,7 +280,7 @@ a:hover {
   font-size: 0.875rem;
   line-height: 1.875rem;
   transition: all 0.2s;
-  -webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
+  -webkit-appearance: none;
 }
 
 .form-control-select {
@@ -291,7 +291,6 @@ a:hover {
 }
 
 select {
-  /* you should keep these first rules in place to maintain cross-browser behavior */
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
@@ -304,9 +303,9 @@ select {
 }
 
 .form-control-textarea {
-  display: block; /* used to eliminate a bottom gap difference between Chrome and IE/FF */
+  display: block;
   width: 100%;
-  height: 13rem; /* used instead of html rows to normalize height between Chrome and IE/FF */
+  height: 13rem;
   padding-top: 1.5rem;
   padding-left: 1.25rem;
   border: 1px solid #dadada;
@@ -321,7 +320,7 @@ select {
 .form-control-select:focus,
 .form-control-textarea:focus {
   border: 1px solid #a1a1a1;
-  outline: none; /* Removes blue border on focus */
+  outline: none;
 }
 
 .form-control-input:hover,
@@ -360,7 +359,6 @@ input[type="checkbox"] {
   color: #28a745;
 }
 
-/* Fade Animation For Image Lightbox And Morphtext - Magnific Popup  */
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
@@ -406,7 +404,6 @@ input[type="checkbox"] {
   -webkit-animation: fadeOut 0.8s;
   animation: fadeOut 0.8s;
 }
-/* end of fade animation for image lightbox and morphtext - magnific popup */
 
 /**********************/
 /*     Navigation     */
@@ -445,7 +442,7 @@ input[type="checkbox"] {
 
 .offcanvas-collapse {
   position: fixed;
-  top: 3.25rem; /* adjusts the height between the top of the page and the offcanvas menu */
+  top: 3.25rem;
   bottom: 0;
   left: 100%;
   width: 100%;
