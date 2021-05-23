@@ -398,7 +398,7 @@ input[type="checkbox"] {
 }
 
 .header .area-1 {
-  padding: 4rem 1rem 5rem 1rem;
+  padding: 6rem 1rem 5rem 1rem;
   /* width: 50%; */
 }
 
@@ -938,6 +938,9 @@ a:hover.back-to-top {
   .projects {
     grid-template-columns: 1fr;
   }
+  .navbar .navbar-nav {
+    font-size: 20px;
+  }
 }
 
 /*****Projects**********/
@@ -1005,7 +1008,7 @@ a:hover.back-to-top {
 }
 @media only screen and (max-width: 850px) {
   html {
-    font-size: 56.25%;
+    font-size: 100%;
   }
   .row {
     flex-direction: column;
