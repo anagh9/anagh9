@@ -1,32 +1,67 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Anagh Kumar</h1>
+<h3 align="center">🚀 Python Backend Developer | Django Specialist | Automation Enthusiast</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagh9&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anagh9&show_icons=true&theme=tokyonight)
+---
 
-<p align="left"> 
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJs" width="40" height="40"> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://html.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://miro.medium.com/max/1024/1*nUZs178q_SxL7NbW7mE10A.png" alt="figma" width="40" height="40"/> </a>
+### 🧠 About Me
+- 💼 5+ years experience building **scalable backend systems**
+- 🧑‍💻 Delivered **100+ freelance projects**
+- ⚙️ Specialized in **Django, APIs, Automation, Data Processing**
+- ☁️ Experience with **AWS S3, Celery, Background Jobs**
+- 🧪 Love solving **real-world problems with Python**
+
+---
+
+### 🔥 Tech Stack (Python-Centric)
+<p align="left">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="45"/></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>
+  <a href="https://aws.amazon.com/s3/"><img src="https://cdn.worldvectorlogo.com/logos/aws-s3.svg" width="45"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anagh9&" alt="anagh9" /></p>
+---
 
-- 🌱 I’m currently a Computer Engineering Student and Freelance Full Stack Developer
-- 👯 I’m skilled in C++ , Python and NodeJs
-- 📫 How to reach me: mail me on anagh9931@gmail.com 
-- Portfolio: https://portfolioanagh.herokuapp.com/
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anagh9&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagh9&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagh9&theme=tokyonight" />
+</p>
 
-<!-- <h3>Visitors</h3> -->
+---
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/anagh9/count.svg) -->
+### 🚀 Featured Projects
+- 🔹 **Journey Calculator**  
+  Fuel cost calculator using Google Maps API + Python + Selenium  
 
+- 🔹 **CRM System for Ad Management**  
+  Handles campaigns, users, and performance tracking  
 
+- 🔹 **Automated Timetable Generator**  
+  Built with Flask + scheduling logic  
+
+- 🔹 **Bulk Image Upload System (AWS S3)**  
+  Handles large-scale uploads with Python boto3  
+
+- 🔹 **Authentication System (JWT + Encryption)**  
+  Secure login system with encrypted payloads  
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **anagh9931@gmail.com**
+- 🌐 Portfolio: https://portfolioanagh.herokuapp.com/
+- 💼 GitHub: https://github.com/anagh9
+
+---
+
+### ⚡ Fun Fact
+> I turn complex backend problems into simple, scalable Python solutions.
+
+---
