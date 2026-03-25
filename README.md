@@ -14,29 +14,7 @@
 
 ### 🔥 Tech Stack (Python-Centric)
 <p align="left">
-  <a href="https://www.python.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  </a>
-
-  <a href="https://www.djangoproject.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
-  </a>
-
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-  </a>
-
-  <a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  </a>
-
-  <a href="https://aws.amazon.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  </a>
-
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,mysql,aws,git,azure,docker,mongo,fastapi&theme=dark" />
 </p>
 ---
 
