@@ -14,14 +14,30 @@
 
 ### 🔥 Tech Stack (Python-Centric)
 <p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="45"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>
-  <a href="https://aws.amazon.com/s3/"><img src="https://cdn.worldvectorlogo.com/logos/aws-s3.svg" width="45"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
-</p>
+  <a href="https://www.python.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  </a>
 
+  <a href="https://www.djangoproject.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+  </a>
+
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+  </a>
+
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  </a>
+
+  <a href="https://aws.amazon.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
