@@ -18,18 +18,6 @@
 </p>
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anagh9&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagh9&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagh9&theme=tokyonight" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 - 🔹 **Journey Calculator**  
   Fuel cost calculator using Google Maps API + Python + Selenium  
@@ -50,7 +38,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: **anagh9931@gmail.com**
-- 🌐 Portfolio: https://portfolioanagh.herokuapp.com/
+- 🌐 Portfolio: https://anagh.online/
 - 💼 GitHub: https://github.com/anagh9
 
 ---
